@@ -3,7 +3,7 @@ Project 1 EDA Analysis for Group 2:
 What makes people in countries around the world happy?
 
 
-<bold>Project Overview:<bold>
+</bold>Project Overview:<bold/>
 
 People around the world seem more interested than ever in living not only successful lives, but happy ones as well. With this in mind, we wanted to determine which factors contribute to living a happy life. We started by investigating a few factors we believe may correlate to how happy a country’s citizens are. These factors are obesity, economy, internet usage, and alcohol consumption. 
 
@@ -30,8 +30,8 @@ Analyze data to determine if there is a correlation between happiness and obesit
 Hypothesis:
 
 H0: There is no correlation between obesity and happiness.
-HA1: There is a positive correlation between obesity and happiness.
-HA2: There is a negative correlation between obesity and happiness.
+HA1: There is a negative correlation between obesity and happiness.
+HA2: There is a positive correlation between obesity and happiness.
 
 Methodology:
 
@@ -44,7 +44,7 @@ Our analysis shows there is a moderate positive correlation between obesity and 
  ![ScreenShot](screenshot.jpg)
 
 
-Based on our analysis, the null hypothesis can be rejected. The results show that there is a positive correlation, so the first alternative hypothesis is correct. The second alternative hypothesis can also be rejected. 
+Based on our analysis, the null hypothesis can be rejected. The results show that there is a positive correlation, so the second alternative hypothesis is correct. The first alternative hypothesis can also be rejected. 
 
 We also charted obesity vs. happiness of the top 5 happiest countries and the bottom 5 happiest countries. 
 
