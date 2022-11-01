@@ -41,6 +41,7 @@ Result 1: Obesity
 
 Our analysis shows there is a moderate positive correlation between obesity and happiness. The r-value is 0.57.
 
+ ![ScreenShot](screenshot.jpg)
 
 
 Based on our analysis, the null hypothesis can be rejected. The results show that there is a positive correlation, so the first alternative hypothesis is correct. The second alternative hypothesis can also be rejected. 
