@@ -115,7 +115,7 @@ Below is a correlation matrix between all factors that were analyzed.
 
 The data we used is from 2015 and only 157 countries were used in the analysis. 
 
-Future Exploratory Analysis:
+## Future Exploratory Analysis
 
 Future analysis can be done on what other factors contribute to happiness. Research shows that genes, life circumstances, and intentional activities all play apart in what makes a person happy. If analysis can narrow down what makes a person more happy, we can apply that knowledge to help raise happiness levels around the world. 
 
