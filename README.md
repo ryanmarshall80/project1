@@ -109,9 +109,13 @@ Future analysis can be done on what other factors contribute to happiness. Resea
 ## References
 
 https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv
+
 https://ourworldindata.org/alcohol-consumption
+
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-) 
- (https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv)
+
+(https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv)
+
 https://databank.worldbank.org/ 
 
 https://www.edbatista.com/2017/12/understanding-the-pie-chart-in-the-how-of-happiness.html
