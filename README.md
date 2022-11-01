@@ -55,34 +55,43 @@ We also charted obesity vs. happiness of the top 5 happiest countries and the bo
 
 Our analysis shows there is a strong positive correlation between economy and happiness. The r-value is 0.78. 
 
-
+![](Images/happiness_vs_economy.png)
 
 We also charted economy vs. happiness in the top 5 and bottom 5 countries.
 
+![](Images/gdp_country_f.png)
 
+![](Images/gdp_country_l.png)
 
 ## Result 3: Internet Usage
 
 Our analysis shows there is a strong positive correlation between internet usage and happiness. The r-value is 0.8.
 
+![](Images/happiness_vs_internet.png)
 
 We also charted internet usage vs. happiness in the top 5 and bottom 5 countries.
 
+![](Images/int_country_f.png)
 
+![](Images/int_country_l.png)
 
 ## Result 4: Alcohol Consumption
 
 Our analysis shows there is a weak positive correlation between alcohol consumption and happiness. The r-value is 0.34. 
 
+![](Images/happiness_vs_alcohol.png)
 
 We also charted alcohol consumption vs. happiness in the top 5 and bottom 5 countries. 
 
+![](Images/alc_country_f.png)
 
+![](Images/alc_country_l.png)
 
 ## Other Analysis
 
 While we were completing our analysis, we thought it would also be interesting to see how happiness has changed over time in select countries. We found that countries that are more stable have a higher and more stable happiness level.
 
+![](Images/Happiness Change over Time.png)
 
 We also did an analysis on suicide rates compared to happiness levels. We determined that suicide rate are not correlated to happiness scores of each country, and they appear to be consistent throughout the regions of the world.
 
@@ -96,8 +105,8 @@ Obesity also has a positive correlation with happiness, but it is not as strong 
 Alcohol has the lowest correlation with happiness than the other factors. It also has very low correlation between all other factors as well. This can be contributed to the many personal, social, and cultural reasons people drink. 
 
 Below is a correlation matrix between all factors that were analyzed. 
-What makes people in countries around the world happy?
 
+![](Images/figure_5.png)
 
 ## Limitations
 
