@@ -1,4 +1,4 @@
-# project1
+### What makes people in countries around the world happy?
 Project 1 EDA Analysis for Group 2:
 What makes people in countries around the world happy?
 
