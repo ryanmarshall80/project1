@@ -43,12 +43,13 @@ Our analysis shows there is a moderate positive correlation between obesity and 
 
 ![](Images/happiness_vs_obesity.png)
 
-
 Based on our analysis, the null hypothesis can be rejected. The results show that there is a positive correlation, so the second alternative hypothesis is correct. The first alternative hypothesis can also be rejected. 
 
 We also charted obesity vs. happiness of the top 5 happiest countries and the bottom 5 happiest countries. 
 
+![](Images/obe_country_f.png)
 
+![](Images/obe_country_l.png)
 
 ## Result 2: Economy
 
