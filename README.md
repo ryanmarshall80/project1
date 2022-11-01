@@ -29,9 +29,9 @@ Analyze data to determine if there is a correlation between happiness and obesit
 
 ## Hypothesis
 
-H0: There is no correlation between obesity and happiness.
-HA1: There is a negative correlation between obesity and happiness.
-HA2: There is a positive correlation between obesity and happiness.
+- H0: There is no correlation between obesity and happiness.
+- HA1: There is a negative correlation between obesity and happiness.
+- HA2: There is a positive correlation between obesity and happiness.
 
 ## Methodology
 
