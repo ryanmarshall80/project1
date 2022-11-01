@@ -35,7 +35,7 @@ Analyze data to determine if there is a correlation between happiness and obesit
 
 ## Methodology
 
-
+We first acquired our Happiness dataset and a dataset for each factor (Obesity, Economy, Internet Usage, and Alcohol Consumption) from resources such as Kaggle, WHO, and the World Bank. Using Jupyter, we then cleaned and merged datasets creating new data frames. With these data frames, we created scatterplots for each pair. On each scatter plot, we ran a linear regression model to determine if there was a correlation between the two factors. We also created a correlation matrix for further analysis. 
 
 ## Result 1: Obesity
 
