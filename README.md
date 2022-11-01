@@ -3,7 +3,7 @@ Project 1 EDA Analysis for Group 2:
 What makes people in countries around the world happy?
 
 
-<bold>Project Overview:
+<bold>Project Overview:<bold>
 
 People around the world seem more interested than ever in living not only successful lives, but happy ones as well. With this in mind, we wanted to determine which factors contribute to living a happy life. We started by investigating a few factors we believe may correlate to how happy a country’s citizens are. These factors are obesity, economy, internet usage, and alcohol consumption. 
 
