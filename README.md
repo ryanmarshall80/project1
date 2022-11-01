@@ -95,6 +95,9 @@ While we were completing our analysis, we thought it would also be interesting t
 
 We also did an analysis on suicide rates compared to happiness levels. We determined that suicide rate are not correlated to happiness scores of each country, and they appear to be consistent throughout the regions of the world.
 
+![](figure_9.png)
+
+![](figure_10.png)
 
 ## Conclusion
 
