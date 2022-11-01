@@ -41,7 +41,7 @@ HA2: There is a positive correlation between obesity and happiness.
 
 Our analysis shows there is a moderate positive correlation between obesity and happiness. The r-value is 0.57.
 
-![](images/happiness_vs_obesity.png)
+![](Images/happiness_vs_obesity.png)
 
 
 Based on our analysis, the null hypothesis can be rejected. The results show that there is a positive correlation, so the second alternative hypothesis is correct. The first alternative hypothesis can also be rejected. 
