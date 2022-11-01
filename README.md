@@ -91,7 +91,7 @@ We also charted alcohol consumption vs. happiness in the top 5 and bottom 5 coun
 
 While we were completing our analysis, we thought it would also be interesting to see how happiness has changed over time in select countries. We found that countries that are more stable have a higher and more stable happiness level.
 
-![](Images/Images/Happiness_Change_over_Time.png)
+![](Images/Happiness_Change_over_Time.png)
 
 We also did an analysis on suicide rates compared to happiness levels. We determined that suicide rate are not correlated to happiness scores of each country, and they appear to be consistent throughout the regions of the world.
 
