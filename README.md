@@ -95,7 +95,11 @@ While we were completing our analysis, we thought it would also be interesting t
 
 We also created a heat map to see the distribution of Happinees throughout the world.
 
+
 ![](Images/Happy_heat_map.png) 
+
+
+
 
 Finally, we did an analysis on suicide rates compared to happiness levels. We determined that suicide rate are not correlated to happiness scores of each country, and they appear to be consistent throughout the regions of the world.
 
