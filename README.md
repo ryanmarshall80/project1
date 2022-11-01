@@ -17,11 +17,11 @@ Lastly, we created a powerpoint to present our findings to the class.
 
 ## Project Contributors
 
-Annalyse Bergman
-Elamathi Elangovan
-Joshua Samuel
-Meena Rai
-Ryan Marshall
+- Annalyse Bergman
+- Elamathi Elangovan
+- Joshua Samuel
+- Meena Rai
+- Ryan Marshall
 
 ## Objective
 
