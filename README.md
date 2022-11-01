@@ -193,28 +193,6 @@ Below is a correlation matrix between all factors that were analyzed.
 
 
 
-Limitations
-
-The data we used is from 2015 and only 157 countries were used in the analysis. 
-
-Future Exploratory Analysis
-
-Future analysis can be done on what other factors contribute to happiness. Research shows that genes, life circumstances, and intentional activities all play apart in what makes a person happy. If analysis can narrow down what makes a person more happy, we can apply that knowledge to help raise happiness levels around the world. 
-
-References
-
-https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv
-https://ourworldindata.org/alcohol-consumption
-https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-) 
- (https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv)
-https://databank.worldbank.org/ 
-
-https://www.edbatista.com/2017/12/understanding-the-pie-chart-in-the-how-of-happiness.html
-
-https://greatergood.berkeley.edu/article/item/genetics_of_happiness
-
-
-
 
 Limitations
 
